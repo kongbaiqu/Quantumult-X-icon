@@ -1,8 +1,8 @@
 # Wiki:
 
-**[Markdown语法](https://docs.github.com/cn/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)**
+### **[Markdown语法](https://docs.github.com/cn/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)**
 
-**1.图片尺寸108x108，尺寸过大会不显示**
+####### **1.图片尺寸108x108，尺寸过大会不显示**
 
 裁剪时宽和高最好是一样的，方便后面调整。
 
