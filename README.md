@@ -11,3 +11,5 @@
 ### 3.图片里不能有违规字**
 
   ** '...真是醉了，强大的互联网审查机制...'
+
+**`static=policy-name-1, Sample-A, Sample-B, Sample-C, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/name.png`
